@@ -192,9 +192,9 @@ section h2::after {
    ABOUT
 ========================= */
 
-#about {
+/* #about {
     text-align: center;
-}
+} */
 
 #about p {
     max-width: 800px;
